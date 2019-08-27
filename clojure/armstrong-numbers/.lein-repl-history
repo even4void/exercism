@@ -1,0 +1,2 @@
+(require 'armstrong-numbers-test)
+(clojure.test/run-tests 'armstrong-numbers-test)
